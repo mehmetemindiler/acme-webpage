@@ -1,1 +1,3 @@
 # acme-webpage
+
+![](acme.gif)
